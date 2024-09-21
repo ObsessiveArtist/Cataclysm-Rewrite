@@ -2,6 +2,8 @@
 
 I want to get way more familiar with C++ code and git in general, so I'm taking one of the biggest, messiest projects I can find (and like), and seeing what happens when I mess around with it. Don't think too hard about what I'm doing here - If I find it funny, I'll throw it together.
 
+I'm basically gonna do a full rewrite full of things that I like rather than what makes sense - like moving to cfg rather than json, standardising modules and how they load things into the 'world save', reworking pathfinding and level loading logic etc. The code that is already here is incredible, there is a lot of magic and matching feature for feature would be an enormous amount of work and I'm not that fast. I'd like to match core functions.
+
 Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world. While some have described it as a "zombie game", there is far more to Cataclysm than that. Struggle to survive in a harsh, persistent, procedurally generated world. Scavenge the remnants of a dead civilization for food, equipment, or, if you are lucky, a vehicle with a full tank of gas to get you the hell out of Dodge. Fight to defeat or escape from a wide variety of powerful monstrosities, from zombies to giant insects to killer robots and things far stranger and deadlier, and against the others like yourself, who want what you have...
 
 <p align="center">
